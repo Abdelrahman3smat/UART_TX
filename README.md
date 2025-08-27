@@ -1,2 +1,2 @@
 # UART_TX
-UART Transmitter
+UART Transmitter using Verilog, 
